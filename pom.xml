@@ -82,13 +82,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:9090/mithuntechnologies/repository/maven-releases/</url>
+	      <name>Prsannajit Releases Nexus Repository</name>
+	      <url>http://3.18.220.90:8081/nexus/content/repositories/HelloWorld/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:9090/mithuntechnologies/repository/maven-snapshots</url>
+	      <name>Prasannajit Snapshot Nexus Repository </name>
+	      <url>http://3.18.220.90:8081/nexus/content/repositories/HelloWorlSnap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
